@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
-##Install
+## Install
 Run `npm install`
 
 ## Code scaffolding
